@@ -7,5 +7,10 @@ insecure
 preserve-inputs
 bootstrap
 router
-accounts-ui-bootstrap-dropdown
 accounts-password
+accounts-urls
+accounts-ui
+standard-app-packages
+HTML5-History-API
+page-js-ie-support
+accounts-ui-bootstrap-dropdown
